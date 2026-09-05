@@ -1,5 +1,5 @@
 timestamp,machine_id,temperature,pressure,vibration,rpm,voltage,current,humidity,operating_hours,maintenance_days,fault_code,failure_next_7_days,production_batch
-1/1/2025 0:00,Machine_C,,33.55,2.19,2046.32,222.67,10.81,34.89,1019,24,0,1,B1000
+1/1/2025 0:000,Machine_C,,33.55,2.19,2046.32,222.67,10.81,34.89,1019,24,0,1,B1000
 1/1/2025 6:00,Machine_D,67.04,30.59,2.22,1716.58,226.27,11.36,35.87,1016,49,0,0,B1000
 1/1/2025 12:00,Machine_D,64.55,27.76,2.59,1759.36,230.54,8.86,49.56,1010,21,0,1,B1000
 1/1/2025 18:00,Machine_A,70.67,30.2,1.88,1691.69,244.82,10.98,44.42,1050,78,0,0,B1000
